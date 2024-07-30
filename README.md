@@ -1,4 +1,10 @@
 ## Hi there 👋
+## My name is Débora
+I'm studing allura
+
+bye
+see you later
+![](link)
 
 <!--
 **Proftec19/Proftec19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
