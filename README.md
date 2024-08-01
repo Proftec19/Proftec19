@@ -1,9 +1,11 @@
 ## Hi there 👋
 ## My name is Débora
-I'm studing allura
+I'm teatching Chemistry
 
-bye
-see you later
+I´m teacher in Olivia Bianco School
+
+
+Thank you for stay here!
 ![](link)
 
 <!--
